@@ -1,0 +1,51 @@
+.programm {
+  padding-bottom: 60px;
+  padding-top: 60px;
+  background-color: #1d201e;
+  color: #fff;
+}
+.programm-block {
+  display: block;
+  text-align: center;
+}
+.programm-head {
+  margin: 0 64px 90px;
+}
+.programm-header {
+  font-size: 38px;
+  color: rgb(247, 197, 21);
+  margin-bottom: 40px;
+  font-weight: 600;
+}
+.programm-header-description {
+  margin: 0 200px;
+  font-size: 22px;
+
+  line-height: 1.5;
+}
+.programm-container {
+  display: flex;
+  flex-direction: column;
+  padding-left: 400px;
+  gap: 60px;
+}
+.programm-icon-container {
+  display: flex;
+  gap: 40px;
+}
+.programm-wrapper {
+  text-align: left;
+}
+.programm-wrapper-header {
+  font-size: 18px;
+  font-weight: 600;
+  color: rgb(247, 197, 21);
+  margin-bottom: 14px;
+}
+.programm-wrapper-description {
+  font-size: 16px;
+  line-height: 1.55;
+}
+.programm-wrapper-description li {
+  list-style-type: disc;
+}

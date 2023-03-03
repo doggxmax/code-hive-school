@@ -1,0 +1,54 @@
+.students {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.students-info {
+  color: #fff;
+  font-size: 20px;
+  font-weight: 400;
+  margin-bottom: 36px;
+}
+.students-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.students-img img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+.students-name {
+  font-size: 14px;
+  margin-top: 14px;
+  margin-bottom: 5px;
+}
+.students-age {
+  font-size: 12px;
+  margin-bottom: 8px;
+  color: #fff;
+}
+.boolet {
+  transition: all ease-in-out 0.2s;
+  border-radius: 100px;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  outline-offset: 3px;
+}
+.boolet:hover {
+  background-color: #222 !important;
+}
+.reviews-slide {
+  display: block;
+  text-align: center;
+}
+.review-list {
+  display: inline-block;
+  padding: 5px 6px;
+}
+.active {
+  background-color: #222 !important;
+}

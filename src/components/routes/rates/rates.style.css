@@ -1,0 +1,107 @@
+.rates {
+  color: #fff;
+  padding-top: 15px;
+  padding-bottom: 120px;
+  background-color: #1d201e;
+}
+.rates-header {
+  font-size: 22px;
+  margin: 105px 190px;
+  text-align: center;
+}
+.rates-containers {
+  text-align: center;
+  margin: 100px auto;
+  color: #1d201e;
+}
+.rates-container-1 {
+  display: inline-block;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  background-color: #f7c515;
+  padding: 40px 40px;
+  border-radius: 9px;
+  border: solid 2px #fff;
+}
+.rates-container-2 {
+  display: inline-block;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+  padding: 60px 40px;
+  margin: 0 40px;
+  border-radius: 9px;
+  background-color: #fff;
+  border: solid 2px #f7c515;
+}
+.rates-number {
+  font-size: 20px;
+  margin-bottom: 10px;
+}
+.rates-indiv {
+  font-size: 12px;
+  height: 37px;
+  color: #777;
+}
+.rates-amount {
+  margin-top: 30px;
+  margin-bottom: 30px;
+  height: 47px;
+  font-size: 38px;
+  font-weight: 500;
+}
+.w {
+  color: #fff;
+}
+.o {
+  color: #f7c515;
+}
+.bl {
+  color: #1d201e;
+}
+.b {
+  font-weight: 700;
+}
+
+.rates-lesson,
+.rates-teacher,
+.rates-online,
+.rates-duration {
+  padding: 10px;
+  font-size: 14px;
+}
+.rates-online {
+  text-decoration: underline;
+}
+.rates-sign-up {
+  margin-top: 30px;
+}
+.rates-sign-up a {
+  padding: 10px 30px;
+  border-radius: 10px;
+  color: #1d201e;
+  font-weight: 600;
+  background-color: #fff;
+}
+.bol a {
+  background-color: #1d201e;
+  color: #fff;
+}
+.rates-contact {
+  text-align: center;
+}
+.rates-us {
+  font-size: 44px;
+  font-weight: 500;
+  margin-bottom: 40px;
+}
+.rates-mail {
+  margin-bottom: 40px;
+  font-weight: 400;
+}
+.rates-contact-container {
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}

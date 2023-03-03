@@ -1,0 +1,43 @@
+.about-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: center;
+  padding-top: 30px;
+  margin-right: 70px;
+  margin-left: 70px;
+  text-align: center;
+}
+.about-header {
+  padding: 10px 0 50px;
+  color: rgb(165, 165, 165);
+  font-size: 14px;
+}
+.about-header-2 {
+  font-size: 48px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-weight: 500;
+}
+.about-description {
+  padding: 40px 120px;
+  font-size: 22px;
+  line-height: 1.45;
+  align-self: center;
+}
+.about-info-container {
+  display: flex;
+  padding: 40px;
+  padding-bottom: 80px;
+}
+.about-info {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 30px;
+}
+.about-info-description {
+  font-size: 24px;
+  font-weight: 500;
+}
